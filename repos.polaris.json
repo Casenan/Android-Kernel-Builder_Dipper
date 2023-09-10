@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi_Kernel_OpenSource-sdm845",
-      "repo": "https://github.com/Akitlove/Xiaomi_Kernel_OpenSource-sdm845",
-      "branch": "88-zstd",
-      "device": "polaris",
-      "defconfig": "polaris_user_defconfig"
+      "name": "PixelExperience-Devices/kernel_xiaomi_polaris",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_polaris",
+      "branch": "thirteen",
+      "device": "dipper",
+      "defconfig": "dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
