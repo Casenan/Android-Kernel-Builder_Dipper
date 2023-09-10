@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "NGK_android_kernel_xiaomi_sdm845",
+      "name": "Lineageos13_android_kernel_xiaomi_sdm845",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_sdm845",
       "branch": "t-caf-ksu",
       "device": "dipper",
