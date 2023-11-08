@@ -2,11 +2,11 @@
 [
   {
     "kernelSource": {
-      "name": "D8G_Kernel",
-      "repo": "https://github.com/diphons/D8G_Kernel",
-      "branch": "bc",
+      "name": "canting_kernel_xiaomi_sdm845",
+      "repo": "https://github.com/khusika/canting_kernel_xiaomi_sdm845",
+      "branch": "canting-4.9-q",
       "device": "dipper",
-      "defconfig": "dipper_defconfig"
+      "defconfig": "canting-dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
