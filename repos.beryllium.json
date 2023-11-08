@@ -4,7 +4,7 @@
     "kernelSource": {
       "name": "D8G_Kernel",
       "repo": "https://github.com/diphons/D8G_Kernel",
-      "branch": "main",
+      "branch": "bc",
       "device": "dipper",
       "defconfig": "dipper_defconfig"
     },
