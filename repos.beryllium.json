@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "D8G_Kernel",
       "repo": "https://github.com/diphons/D8G_Kernel",
-      "branch": "88-zstd",
+      "branch": "main",
       "device": "dipper",
       "defconfig": "dipper_user_defconfig"
     },
