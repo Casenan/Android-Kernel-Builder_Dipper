@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "BAALAM_android_kernel_xiaomi_sdm845",
       "repo": "https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sdm845",
-      "branch": "staging/lineage-17.1",
+      "branch": "lineage-17.1",
       "device": "dipper",
       "defconfig": "dipper_defconfig"
     },
