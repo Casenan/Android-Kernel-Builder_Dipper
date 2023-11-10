@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "SilverCore_Kernel",
-      "repo": "https://github.com/Casenan/kernel_xiaomi_sdm845-10.20",
-      "branch": "main",
+      "repo": "https://github.com/negrroo/LawRun_xiaomi_sdm845_CAF",
+      "branch": "master",
       "device": "dipper",
-      "defconfig": "sdm845_defconfig"
+      "defconfig": "dipper_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
