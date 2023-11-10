@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "SilverCore_Kernel",
+      "name": "LawRun_xiaomi_sdm845_CAF",
       "repo": "https://github.com/negrroo/LawRun_xiaomi_sdm845_CAF",
       "branch": "master",
       "device": "dipper",
