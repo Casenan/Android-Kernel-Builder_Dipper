@@ -5,7 +5,7 @@
       "repo": "https://github.com/Casenan/kernel_xiaomi_sdm845-10.20",
       "branch": "main",
       "device": "dipper",
-      "defconfig": "stock-dipper_defconfig"
+      "defconfig": "vendor/xiaomi/mi845_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
